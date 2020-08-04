@@ -88,9 +88,13 @@
               "src/assets"
             ],
             "styles": [
+             
               "src/styles.css"
+              
             ],
-            "scripts": []
+            "scripts": [
+              
+            ]
           }
         },
         "lint": {
